@@ -13,26 +13,26 @@ Piano        cordes frappées
 Timbales     percussion
 
 # Musiciens
-Gabriel  Violon Violoncelle
-Anna     Violoncelle
-Raphaël  Flûte Hautbois
-Emma     Piano
-Léo      Clarinette Hautbois Saxophone
-Jade     Violon
-Louis    Harpe
-Alice    Harpe Piano
-Lucas    Piano
-Ines     Timbales Trompette Basson 
-Paul     Contrebasse
-Sarah    Basson
-Sacha    Saxophone Flûte 
-Rebecca  Hautbois Clarinette 
-Théo     Trompette
-Léa      Clarinette
-Victor   Flûte Timbales
-Zoe      Violon
-Jean     Clarinette
-Julia    Flûte
+MR  Gabriel  Violon Violoncelle
+MRS Anna     Violoncelle
+MR  Raphaël  Flûte Hautbois
+MRS Emma     Piano
+MR  Léo      Clarinette Hautbois Saxophone
+MRS Jade     Violon
+MR  Louis    Harpe
+MRS Alice    Harpe Piano
+MR  Lucas    Piano
+MRS Ines     Timbales Trompette Basson 
+MR  Paul     Contrebasse
+MRS Sarah    Basson
+MR  Sacha    Saxophone Flûte 
+MRS Rebecca  Hautbois Clarinette 
+MR  Théo     Trompette
+MRS Léa      Clarinette
+MR  Victor   Flûte Timbales
+MRS Zoe      Violon
+MR  Jean     Clarinette
+MRS Julia    Flûte
 
 # Professeurs
 Gabriel  Violon
